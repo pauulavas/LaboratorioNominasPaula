@@ -35,7 +35,7 @@ namespace CapaDiseno.Consulta
             try
             {
                 Conexion conexion = new Conexion();
-                string consultaMostrar = "SELECT * FROM empleado WHERE estatus_empleado='Activo';";
+                string consultaMostrar = "SELECT * FROM empleado WHERE estatus_empleado='A';";
                 OdbcCommand comm = new OdbcCommand(consultaMostrar, conexion.conexionbd());
                 OdbcDataReader mostrarDatos = comm.ExecuteReader();
 

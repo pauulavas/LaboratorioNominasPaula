@@ -1,0 +1,4 @@
+C:\Users\Paula V\source\repos\LaboratorioNominas\CapaDiseno\obj\Debug\CapaDiseno.csprojAssemblyReference.cache
+C:\Users\Paula V\source\repos\LaboratorioNominas\CapaDiseno\obj\Debug\CapaDiseno.Mantenimientos.Frm_MantDepartamento.resources
+C:\Users\Paula V\source\repos\LaboratorioNominas\CapaDiseno\obj\Debug\CapaDiseno.MDI.resources
+C:\Users\Paula V\source\repos\LaboratorioNominas\CapaDiseno\obj\Debug\CapaDiseno.csproj.GenerateResource.cache

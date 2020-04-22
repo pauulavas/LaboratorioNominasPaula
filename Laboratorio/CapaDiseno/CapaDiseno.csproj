@@ -43,6 +43,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Consulta\Frm_consultaConcepto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\Frm_consultaConcepto.Designer.cs">
+      <DependentUpon>Frm_consultaConcepto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\Frm_consultaDepartamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\Frm_consultaDepartamento.Designer.cs">
+      <DependentUpon>Frm_consultaDepartamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\Frm_consultaEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\Frm_consultaEmpleado.Designer.cs">
+      <DependentUpon>Frm_consultaEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\Frm_consultaPuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\Frm_consultaPuesto.Designer.cs">
+      <DependentUpon>Frm_consultaPuesto.cs</DependentUpon>
+    </Compile>
     <Compile Include="Mantenimientos\Frm_MantConcepto.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -87,14 +111,39 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CapaDatos\CapaDatos.csproj">
+      <Project>{F791AA4E-9823-4BF2-852F-051484EAA4AD}</Project>
+      <Name>CapaDatos</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CapaLogica\CapaLogica.csproj">
       <Project>{db08a40d-8223-4571-8b65-f8da82ec2ebd}</Project>
       <Name>CapaLogica</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Consulta\Frm_consultaConcepto.resx">
+      <DependentUpon>Frm_consultaConcepto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\Frm_consultaDepartamento.resx">
+      <DependentUpon>Frm_consultaDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\Frm_consultaEmpleado.resx">
+      <DependentUpon>Frm_consultaEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\Frm_consultaPuesto.resx">
+      <DependentUpon>Frm_consultaPuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_MantConcepto.resx">
+      <DependentUpon>Frm_MantConcepto.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Mantenimientos\Frm_MantDepartamento.resx">
       <DependentUpon>Frm_MantDepartamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_MantEmpleado.resx">
+      <DependentUpon>Frm_MantEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimientos\Frm_MantPuesto.resx">
+      <DependentUpon>Frm_MantPuesto.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MDI.resx">
       <DependentUpon>MDI.cs</DependentUpon>

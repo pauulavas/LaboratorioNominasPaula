@@ -6,3 +6,11 @@ C:\Users\Paula V\source\repos\LaboratorioNominas\CapaLogica\obj\Debug\CapaLogica
 C:\Users\Paula V\source\repos\LaboratorioNominas\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
 C:\Users\Paula V\source\repos\LaboratorioNominas\CapaLogica\obj\Debug\CapaLogica.dll
 C:\Users\Paula V\source\repos\LaboratorioNominas\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\Paula V\Desktop\Laboratorio\LaboratorioNominas\Laboratorio\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\Desktop\Laboratorio\LaboratorioNominas\Laboratorio\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\Desktop\Laboratorio\LaboratorioNominas\Laboratorio\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\Desktop\Laboratorio\LaboratorioNominas\Laboratorio\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\Desktop\Laboratorio\LaboratorioNominas\Laboratorio\CapaLogica\obj\Debug\CapaLogica.csprojAssemblyReference.cache
+C:\Users\Paula V\Desktop\Laboratorio\LaboratorioNominas\Laboratorio\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Paula V\Desktop\Laboratorio\LaboratorioNominas\Laboratorio\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Paula V\Desktop\Laboratorio\LaboratorioNominas\Laboratorio\CapaLogica\obj\Debug\CapaLogica.pdb

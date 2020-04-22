@@ -1,0 +1,15 @@
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\bin\Debug\PruebaLaboratorio.exe.config
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\bin\Debug\PruebaLaboratorio.exe
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\bin\Debug\PruebaLaboratorio.pdb
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\bin\Debug\CapaDiseno.dll
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\bin\Debug\CapaLogica.dll
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\bin\Debug\CapaDatos.dll
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\bin\Debug\CapaDiseno.pdb
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\bin\Debug\CapaLogica.pdb
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\bin\Debug\CapaDatos.pdb
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\obj\Debug\PruebaLaboratorio.csprojAssemblyReference.cache
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\obj\Debug\PruebaLaboratorio.Properties.Resources.resources
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\obj\Debug\PruebaLaboratorio.csproj.GenerateResource.cache
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\obj\Debug\PruebaLaboratorio.csproj.CopyComplete
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\obj\Debug\PruebaLaboratorio.exe
+C:\Users\Paula V\source\repos\PruebaLaboratorio\PruebaLaboratorio\obj\Debug\PruebaLaboratorio.pdb
